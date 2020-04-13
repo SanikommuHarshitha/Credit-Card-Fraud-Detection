@@ -3,15 +3,16 @@ Project Description: —Credit card based online payments has grown intensely, c
 
 # Goals and objectives: 
 The goal of this project is to detect anonymous credit card transactions and label it as fraudulent or genuine in transactional data. Fraud detection involves monitoring the behavior of users to estimate, detect, or avoid undesirable behavior. The objective is to handle data imbalance problem and create simple and commonly used machine learning models like logistic regression, Random forest and maybe others to compare how they perform regarding the metric chosen (Precision, Recall etc) for the task of predicting fraudulent credit card transactions.
-# Project Requirements: 
-•	Python 
-•	NumPy (for documentation:http://www.numpy.org/)
-•	Pandas (for documentation:http://pandas.pydata.org/)
-•	Scikit-Learn (for documentation:http://scikit-learn.org/stable/)
 
-# Run Notebooks in this order
+### Project Requirements: 
+## •	Python 
+## •	NumPy (for documentation:http://www.numpy.org/)
+## •	Pandas (for documentation:http://pandas.pydata.org/)
+## •	Scikit-Learn (for documentation:http://scikit-learn.org/stable/)
 
-1.PORTFOLIO 
-2.UNDERSAMPLING
-2.OVERSAMPLING 
-3.HYBRID
+### Run Notebooks in this order
+
+## 1.PORTFOLIO 
+## 2.UNDERSAMPLING
+## 3.OVERSAMPLING 
+## 4.HYBRID
